@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+
+body
+{
+    background-color: rgb(9, 22, 136);
+    background-color: linear-gradient(90deg,
+        rgba(156, 238, 183) 50%,
+        rgba(245,115,115) 60%,
+        rgba(34, 87, 90) 100%);
+    color: blue;
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: crimson;
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Monterrat';  
+}
+h2:haber(
+    colors
